@@ -1,3 +1,12 @@
 body{
     background: yellow;
+    color: blue;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    height: 100%;
+}
+html{
+    height: 100%;
+    width: 100%;
 }
